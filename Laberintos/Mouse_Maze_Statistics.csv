@@ -1,0 +1,10 @@
+modelo,time,movements,cell_visits,boost_count,Ispeed,Fspeed,CalculationCount
+Mouse ColapinCycleDetection,2.529114007949829,301,301,2,1,2,980
+Mouse ColapinA*,1.2122352123260498,141,141,2,1,2,504
+Mouse MaximumFlow,0.2540934085845947,31,31,0,1,1,1859
+Mouse MaximumFlow,0.26395416259765625,31,31,0,1,1,1859
+Mouse ColapinCycleDetection,0.9284014701843262,113,113,0,1,1,358
+Mouse Dijkstra,3.0728495121002197,369,369,1,1,2,927
+Mouse MaximumFlow,2.435776948928833,289,289,2,1,2,802
+Mouse MaximumFlow,1.5632357597351074,189,189,0,1,1,683
+Mouse Búsqueda de Frontera,6.00100564956665,710,710,2,1,2,0

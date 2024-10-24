@@ -1,0 +1,3 @@
+main.py tiene la generacion del laberinto, importando las clases cll y mouse
+
+laberintocompleto.py, tiene mejoras y todo en el mismo archivo (pero no anda xd)
